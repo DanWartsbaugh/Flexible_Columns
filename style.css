@@ -1,0 +1,25 @@
+.row{
+    /* background-color: gray; */
+    display:flex;
+}
+
+.col{
+    background-color:aquamarine;
+    flex:1;
+    padding:20px;
+    margin:10px;
+}
+
+.col2{
+    background-color:aquamarine;
+    flex:2;
+    padding:20px;
+    margin:10px;
+}
+
+.col3{
+    background-color:aquamarine;
+    flex:3;
+    padding:20px;
+    margin:10px;
+}
